@@ -1,0 +1,5 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task14.10.24\obj\Debug\net6.0\Task14.10.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task14.10.24\obj\Debug\net6.0\Task14.10.24.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task14.10.24\obj\Debug\net6.0\Task14.10.24.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task14.10.24\obj\Debug\net6.0\Task14.10.24.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task14.10.24\obj\Debug\net6.0\Task14.10.24.sourcelink.json
